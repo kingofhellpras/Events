@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_gender_options">
+        <item>@string/gender_unknown</item>
+        <item>@string/gender_male</item>
+        <item>@string/gender_female</item>
+    </string-array>
+    <string-array name="array_status_options">
+        <item>@string/status_sick</item>
+        <item>@string/status_present</item>
+        <item>@string/status_absent</item>
+    </string-array>
+</resources>

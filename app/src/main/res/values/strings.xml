@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Events</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_attendees">Attendees</string>
+    <string name="gender_unknown">Unknown</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+    <string name="status_sick">Sick</string>
+    <string name="status_present">Present</string>
+    <string name="status_absent">Absent</string>
+</resources>
