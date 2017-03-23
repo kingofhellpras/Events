@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\HP-PC\\AndroidStudioProjects\\Events\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_note_add_black_24dp.png",
+        "source": "C:\\Users\\HP-PC\\AndroidStudioProjects\\Events\\app\\src\\main\\res\\drawable-hdpi\\ic_note_add_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\HP-PC\\AndroidStudioProjects\\Events\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_empty_shelter.png",
+        "source": "C:\\Users\\HP-PC\\AndroidStudioProjects\\Events\\app\\src\\main\\res\\drawable-hdpi\\ic_empty_shelter.png"
+    },
+    {
+        "merged": "C:\\Users\\HP-PC\\AndroidStudioProjects\\Events\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_done.png",
+        "source": "C:\\Users\\HP-PC\\AndroidStudioProjects\\Events\\app\\src\\main\\res\\drawable-hdpi\\ic_done.png"
+    }
+]

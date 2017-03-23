@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP-PC\.android\build-cache\d8107c1b9c26c6a2a88f4ad7af8ad7d119af7f0b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\HP-PC\AndroidStudioProjects\Events\app\build\intermediates\pre-dexed\release\classes_b3911e00b8f8ec1e1dc288f9a479204194d5bcf4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP-PC\.android\build-cache\2b1ecb56d4dd35f3ba2534cc2d3f3d05439d000a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="C:\Users\HP-PC\AndroidStudioProjects\Events\app\build\intermediates\pre-dexed\release\classes_e3cb26f395bc409294458614baf59ddaac2ad016.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP-PC\.android\build-cache\ef10a999918d872c42401d5ff37ced0ebebe85cf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="C:\Users\HP-PC\AndroidStudioProjects\Events\app\build\intermediates\pre-dexed\release\classes_31a3081fc19355926aa6eedc48188f0880150424.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP-PC\.android\build-cache\f33a073b68aeef87f530e93b060af660728cec5d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\HP-PC\AndroidStudioProjects\Events\app\build\intermediates\pre-dexed\release\classes_c77967041a53b1b00bfda51313c33c8e0c4b9895.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP-PC\.android\build-cache\f02fd9ec2f2fa8eb2c584aa3d16ed09d1cb35af5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\HP-PC\AndroidStudioProjects\Events\app\build\intermediates\pre-dexed\release\classes_16e677855ff324e573c8d449938f26c577cd3519.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP-PC\.android\build-cache\31b3600a5c47e3cfd5659430ea18ea32d6786eab\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\HP-PC\AndroidStudioProjects\Events\app\build\intermediates\pre-dexed\release\classes_6478f5b3963eac09da3826e630bcdf350f8771cc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP-PC\AndroidStudioProjects\Events\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1024b461ee9707ce09491a96a3c5968b157da4f5">
+        <dex dex="C:\Users\HP-PC\AndroidStudioProjects\Events\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_459706186dba1b413ba5e1cc435234f3f505543a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP-PC\.android\build-cache\f725ddcc2136c61414ea1d3714ad9e18c243835e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\HP-PC\AndroidStudioProjects\Events\app\build\intermediates\pre-dexed\release\classes_de045b9dd8a38cbb91f1d53b56223bdc3264c7e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP-PC\.android\build-cache\6fc3c4f2b7984ea9c6286e05c2a1b0c0ad3dc7fa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\HP-PC\AndroidStudioProjects\Events\app\build\intermediates\pre-dexed\release\classes_770605bcc3e60606ed3763686391a272804fdd4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP-PC\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\HP-PC\AndroidStudioProjects\Events\app\build\intermediates\pre-dexed\release\support-annotations-25.2.0_36016d6402db373b2a23885ef27475d91e738a2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP-PC\.android\build-cache\1988359bb38a3385673b150c8324a2546b9fde32\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="C:\Users\HP-PC\AndroidStudioProjects\Events\app\build\intermediates\pre-dexed\release\classes_40ba51d8372d2a2d6b76a67ed4ff72e2523ff6a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP-PC\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\HP-PC\AndroidStudioProjects\Events\app\build\intermediates\pre-dexed\release\constraint-layout-solver-1.0.2_cf304260b31fdfa4e5437a1e2badd3ff76215fd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP-PC\.android\build-cache\01085f57a1826c6056e4a31ffda6029596257dca\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\HP-PC\AndroidStudioProjects\Events\app\build\intermediates\pre-dexed\release\classes_94bc314836884f48b705e65b0c01973f4838220c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP-PC\AndroidStudioProjects\Events\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\HP-PC\AndroidStudioProjects\Events\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_daa04681daf76eb87839e3aee7856ccea789e4bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP-PC\.android\build-cache\c5e6df57295f2f120dfb22c00f21a3c34d19e37d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\HP-PC\AndroidStudioProjects\Events\app\build\intermediates\pre-dexed\release\classes_8ef7743ac5db5ca05f803c0e7148ce6a4d0f157d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP-PC\.android\build-cache\904a414814dab20ad49d218b1ba4be76ff7f4926\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\HP-PC\AndroidStudioProjects\Events\app\build\intermediates\pre-dexed\release\classes_2323b57c79da1815b41784c4089a653ed7d73b89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP-PC\.android\build-cache\8820c04e994dee9e6baffec2bd7d54a2c4141cdf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\HP-PC\AndroidStudioProjects\Events\app\build\intermediates\pre-dexed\release\classes_35469233ff4e1da417698e3be8711f302c360978.jar" />
+    </item>
+
+</items>

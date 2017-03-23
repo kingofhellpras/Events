@@ -1,0 +1,130 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\HP-PC\AndroidStudioProjects\Events\app\src\main\AndroidManifest.xml:2:1-49:12
+	package
+		ADDED from C:\Users\HP-PC\AndroidStudioProjects\Events\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\HP-PC\AndroidStudioProjects\Events\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP-PC\AndroidStudioProjects\Events\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\HP-PC\AndroidStudioProjects\Events\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP-PC\AndroidStudioProjects\Events\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\HP-PC\AndroidStudioProjects\Events\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\HP-PC\AndroidStudioProjects\Events\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP-PC\AndroidStudioProjects\Events\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\HP-PC\AndroidStudioProjects\Events\app\src\main\AndroidManifest.xml:5:5-47:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\HP-PC\.android\build-cache\f725ddcc2136c61414ea1d3714ad9e18c243835e\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.2.0] C:\Users\HP-PC\.android\build-cache\2b1ecb56d4dd35f3ba2534cc2d3f3d05439d000a\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\HP-PC\.android\build-cache\31b3600a5c47e3cfd5659430ea18ea32d6786eab\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\HP-PC\.android\build-cache\c5e6df57295f2f120dfb22c00f21a3c34d19e37d\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\HP-PC\.android\build-cache\f02fd9ec2f2fa8eb2c584aa3d16ed09d1cb35af5\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.2.0] C:\Users\HP-PC\.android\build-cache\ef10a999918d872c42401d5ff37ced0ebebe85cf\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\HP-PC\.android\build-cache\8820c04e994dee9e6baffec2bd7d54a2c4141cdf\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\HP-PC\.android\build-cache\6fc3c4f2b7984ea9c6286e05c2a1b0c0ad3dc7fa\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\HP-PC\.android\build-cache\f33a073b68aeef87f530e93b060af660728cec5d\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\HP-PC\.android\build-cache\904a414814dab20ad49d218b1ba4be76ff7f4926\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\HP-PC\.android\build-cache\01085f57a1826c6056e4a31ffda6029596257dca\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\HP-PC\.android\build-cache\d8107c1b9c26c6a2a88f4ad7af8ad7d119af7f0b\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\HP-PC\AndroidStudioProjects\Events\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\Users\HP-PC\AndroidStudioProjects\Events\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from C:\Users\HP-PC\AndroidStudioProjects\Events\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from C:\Users\HP-PC\AndroidStudioProjects\Events\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\HP-PC\AndroidStudioProjects\Events\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Users\HP-PC\AndroidStudioProjects\Events\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.hp_pc.events.Events
+ADDED from C:\Users\HP-PC\AndroidStudioProjects\Events\app\src\main\AndroidManifest.xml:12:9-15:59
+	android:label
+		ADDED from C:\Users\HP-PC\AndroidStudioProjects\Events\app\src\main\AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from C:\Users\HP-PC\AndroidStudioProjects\Events\app\src\main\AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from C:\Users\HP-PC\AndroidStudioProjects\Events\app\src\main\AndroidManifest.xml:13:13-35
+activity#com.example.hp_pc.events.login.LoginActivity
+ADDED from C:\Users\HP-PC\AndroidStudioProjects\Events\app\src\main\AndroidManifest.xml:16:9-24:20
+	android:theme
+		ADDED from C:\Users\HP-PC\AndroidStudioProjects\Events\app\src\main\AndroidManifest.xml:18:13-56
+	android:name
+		ADDED from C:\Users\HP-PC\AndroidStudioProjects\Events\app\src\main\AndroidManifest.xml:17:13-48
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\HP-PC\AndroidStudioProjects\Events\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\HP-PC\AndroidStudioProjects\Events\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\HP-PC\AndroidStudioProjects\Events\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\HP-PC\AndroidStudioProjects\Events\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\HP-PC\AndroidStudioProjects\Events\app\src\main\AndroidManifest.xml:22:27-74
+activity#com.example.hp_pc.events.login.RegisterActivity
+ADDED from C:\Users\HP-PC\AndroidStudioProjects\Events\app\src\main\AndroidManifest.xml:25:9-27:59
+	android:theme
+		ADDED from C:\Users\HP-PC\AndroidStudioProjects\Events\app\src\main\AndroidManifest.xml:27:13-56
+	android:name
+		ADDED from C:\Users\HP-PC\AndroidStudioProjects\Events\app\src\main\AndroidManifest.xml:26:13-51
+activity#com.example.hp_pc.events.Attendees
+ADDED from C:\Users\HP-PC\AndroidStudioProjects\Events\app\src\main\AndroidManifest.xml:28:9-32:59
+	android:label
+		ADDED from C:\Users\HP-PC\AndroidStudioProjects\Events\app\src\main\AndroidManifest.xml:30:13-61
+	android:parentActivityName
+		ADDED from C:\Users\HP-PC\AndroidStudioProjects\Events\app\src\main\AndroidManifest.xml:31:13-49
+	android:theme
+		ADDED from C:\Users\HP-PC\AndroidStudioProjects\Events\app\src\main\AndroidManifest.xml:32:13-56
+	android:name
+		ADDED from C:\Users\HP-PC\AndroidStudioProjects\Events\app\src\main\AndroidManifest.xml:29:13-38
+activity#com.example.hp_pc.events.EventDetails
+ADDED from C:\Users\HP-PC\AndroidStudioProjects\Events\app\src\main\AndroidManifest.xml:33:9-35:64
+	android:theme
+		ADDED from C:\Users\HP-PC\AndroidStudioProjects\Events\app\src\main\AndroidManifest.xml:35:13-61
+	android:name
+		ADDED from C:\Users\HP-PC\AndroidStudioProjects\Events\app\src\main\AndroidManifest.xml:34:13-41
+activity#com.example.hp_pc.events.AttendeesDetails
+ADDED from C:\Users\HP-PC\AndroidStudioProjects\Events\app\src\main\AndroidManifest.xml:36:9-39:64
+	android:label
+		ADDED from C:\Users\HP-PC\AndroidStudioProjects\Events\app\src\main\AndroidManifest.xml:38:13-50
+	android:theme
+		ADDED from C:\Users\HP-PC\AndroidStudioProjects\Events\app\src\main\AndroidManifest.xml:39:13-61
+	android:name
+		ADDED from C:\Users\HP-PC\AndroidStudioProjects\Events\app\src\main\AndroidManifest.xml:37:13-45
+provider#com.example.hp_pc.events.data.EventProvider
+ADDED from C:\Users\HP-PC\AndroidStudioProjects\Events\app\src\main\AndroidManifest.xml:41:9-44:40
+	android:authorities
+		ADDED from C:\Users\HP-PC\AndroidStudioProjects\Events\app\src\main\AndroidManifest.xml:43:13-59
+	android:exported
+		ADDED from C:\Users\HP-PC\AndroidStudioProjects\Events\app\src\main\AndroidManifest.xml:44:13-37
+	android:name
+		ADDED from C:\Users\HP-PC\AndroidStudioProjects\Events\app\src\main\AndroidManifest.xml:42:13-47
+activity#com.example.hp_pc.events.login.UserProfile
+ADDED from C:\Users\HP-PC\AndroidStudioProjects\Events\app\src\main\AndroidManifest.xml:46:9-64
+	android:name
+		ADDED from C:\Users\HP-PC\AndroidStudioProjects\Events\app\src\main\AndroidManifest.xml:46:19-52
+uses-sdk
+INJECTED from C:\Users\HP-PC\AndroidStudioProjects\Events\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\HP-PC\.android\build-cache\f725ddcc2136c61414ea1d3714ad9e18c243835e\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.2.0] C:\Users\HP-PC\.android\build-cache\2b1ecb56d4dd35f3ba2534cc2d3f3d05439d000a\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\HP-PC\.android\build-cache\31b3600a5c47e3cfd5659430ea18ea32d6786eab\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\HP-PC\.android\build-cache\c5e6df57295f2f120dfb22c00f21a3c34d19e37d\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\HP-PC\.android\build-cache\f02fd9ec2f2fa8eb2c584aa3d16ed09d1cb35af5\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] C:\Users\HP-PC\.android\build-cache\1988359bb38a3385673b150c8324a2546b9fde32\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.2.0] C:\Users\HP-PC\.android\build-cache\ef10a999918d872c42401d5ff37ced0ebebe85cf\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\HP-PC\.android\build-cache\8820c04e994dee9e6baffec2bd7d54a2c4141cdf\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\HP-PC\.android\build-cache\6fc3c4f2b7984ea9c6286e05c2a1b0c0ad3dc7fa\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\HP-PC\.android\build-cache\f33a073b68aeef87f530e93b060af660728cec5d\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\HP-PC\.android\build-cache\904a414814dab20ad49d218b1ba4be76ff7f4926\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\HP-PC\.android\build-cache\01085f57a1826c6056e4a31ffda6029596257dca\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\HP-PC\.android\build-cache\d8107c1b9c26c6a2a88f4ad7af8ad7d119af7f0b\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.2.0] C:\Users\HP-PC\.android\build-cache\2b1ecb56d4dd35f3ba2534cc2d3f3d05439d000a\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\HP-PC\AndroidStudioProjects\Events\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP-PC\AndroidStudioProjects\Events\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\HP-PC\AndroidStudioProjects\Events\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP-PC\AndroidStudioProjects\Events\app\src\main\AndroidManifest.xml

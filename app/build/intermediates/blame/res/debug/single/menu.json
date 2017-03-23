@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\HP-PC\\AndroidStudioProjects\\Events\\app\\build\\intermediates\\res\\merged\\debug\\menu\\details_menu.xml",
+        "source": "C:\\Users\\HP-PC\\AndroidStudioProjects\\Events\\app\\src\\main\\res\\menu\\details_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP-PC\\AndroidStudioProjects\\Events\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_events.xml",
+        "source": "C:\\Users\\HP-PC\\AndroidStudioProjects\\Events\\app\\src\\main\\res\\menu\\menu_events.xml"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\HP-PC\\AndroidStudioProjects\\Events\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\HP-PC\\.android\\build-cache\\31b3600a5c47e3cfd5659430ea18ea32d6786eab\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP-PC\\AndroidStudioProjects\\Events\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\HP-PC\\.android\\build-cache\\2b1ecb56d4dd35f3ba2534cc2d3f3d05439d000a\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP-PC\\AndroidStudioProjects\\Events\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\HP-PC\\.android\\build-cache\\2b1ecb56d4dd35f3ba2534cc2d3f3d05439d000a\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP-PC\\AndroidStudioProjects\\Events\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\HP-PC\\.android\\build-cache\\31b3600a5c47e3cfd5659430ea18ea32d6786eab\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP-PC\\AndroidStudioProjects\\Events\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\HP-PC\\.android\\build-cache\\31b3600a5c47e3cfd5659430ea18ea32d6786eab\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP-PC\\AndroidStudioProjects\\Events\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\HP-PC\\.android\\build-cache\\2b1ecb56d4dd35f3ba2534cc2d3f3d05439d000a\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP-PC\\AndroidStudioProjects\\Events\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\HP-PC\\.android\\build-cache\\31b3600a5c47e3cfd5659430ea18ea32d6786eab\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP-PC\\AndroidStudioProjects\\Events\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\HP-PC\\.android\\build-cache\\2b1ecb56d4dd35f3ba2534cc2d3f3d05439d000a\\output\\res\\drawable-v21\\avd_show_password.xml"
+    }
+]
