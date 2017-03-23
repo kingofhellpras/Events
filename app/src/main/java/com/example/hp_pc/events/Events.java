@@ -57,7 +57,9 @@ public class Events extends AppCompatActivity {
     private void logout() {
         session.setLoggedin(false);
         finish();
-        startActivity(new Intent(Events.this, LoginActivity.class));
+        Intent n=new Intent(Events.this, LoginActivity.class);
+        n.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
+        startActivity(n);
     }
 
     @Override
